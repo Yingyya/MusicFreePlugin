@@ -4,5 +4,4 @@
 
 > API提供: https://api.xingzhige.com
 > 
-> 下载地址: https://github.com/Yingyya/MusicFreePlugin/blob/main/QQ音乐.js
-
+> 下载地址: https://github.com/Yingyya/MusicFreePlugin/raw/main/QQ音乐.js
