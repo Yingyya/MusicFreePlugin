@@ -101,7 +101,7 @@ module.exports = {
 	version: '1.0.0',
 	appVersion: '>0.0',
 	defaultSearchType: 'music',
-	srcUrl: 'https://github.com/Yingyya/MusicFreePlugin/blob/main/QQ音乐.js'
+	srcUrl: 'https://ghproxy.com/https://github.com/Yingyya/MusicFreePlugin/raw/main/QQ音乐.js'
 	search,
 	getMediaSource,
 	getLyric
